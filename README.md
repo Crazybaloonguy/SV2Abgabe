@@ -16,7 +16,7 @@ f₀ -> 5032,92121045Hz
 Simulation: Bauen Sie die Schaltung auf. Finden Sie im Simulator die Frequenz, bei der der Strom I maximal ist. (Tipp: Verwenden Sie einen "Slider" für die Frequenz und beobachten Sie die Helligkeit/Geschwindigkeit der fließenden Punkte).
 
 Task1 GIF
-![Task1 GIF](https://github.com/Crazybaloonguy/SV2Abgabe/blob/main/Aufzeichnung%202026-01-07%20203217.gif)
+![Task1 GIF](https://raw.githubusercontent.com/Crazybaloonguy/SV2Abgabe/main/Aufzeichnung%202026-01-07%20203217.gif)
 
 ## Part 3
 
@@ -45,7 +45,7 @@ Stellen Sie den Widerstand R so ein, dass Sie ihn interaktiv verändern können 
 Dokumentieren Sie durch ein GIF, wie sich die Form der Resonanzkurve (die "Peak-Form") ändert, wenn Sie R von einem sehr kleinen Wert (z.B. 5 Ω) zu einem großen Wert (z.B. 300 Ω) ändern.
 
 Task2 GIF
-![Task2 GIF](https://github.com/Crazybaloonguy/SV2Abgabe/blob/d2c09e6a5cbcaa32fdb2f541a6fdba0e676aa9b8/Aufzeichnung%202026-01-07%20214627.gif)
+![Task2 GIF](https://raw.githubusercontent.com/Crazybaloonguy/SV2Abgabe/d2c09e6a5cbcaa32fdb2f541a6fdba0e676aa9b8/Aufzeichnung%202026-01-07%20214627.gif)
 
 ## Part 4
 
@@ -81,7 +81,7 @@ Simulieren Sie den Frequenzgang der Ausgangsspannung für beide Schaltungen (z.B
 Dokumentieren Sie Ihre Ergebnisse durch GIFs, die den Frequenzgang beider Schaltungen zeigen.
 
 Task3 GIFs
-![Task3 GIF](https://github.com/Crazybaloonguy/SV2Abgabe/blob/d2c09e6a5cbcaa32fdb2f541a6fdba0e676aa9b8/Aufzeichnung%202026-01-17%20193036.gif)
+![Task3 GIF](https://raw.githubusercontent.com/Crazybaloonguy/SV2Abgabe/d2c09e6a5cbcaa32fdb2f541a6fdba0e676aa9b8/Aufzeichnung%202026-01-17%20193036.gif)
 
 ## Part 5
 
@@ -127,7 +127,7 @@ Messen Sie für jede Kombination die resultierende analoge Ausgangsspannung Uaus
 Dokumentieren Sie durch ein GIF, wie sich die Ausgangsspannung ändert, wenn Sie die Binärkombinationen durchschalten.
 
 Task4 GIF
-![Task4 GIF](https://github.com/Crazybaloonguy/SV2Abgabe/blob/d2c09e6a5cbcaa32fdb2f541a6fdba0e676aa9b8/Aufzeichnung%202026-01-17%20193435.gif)
+![Task4 GIF](https://raw.githubusercontent.com/Crazybaloonguy/SV2Abgabe/d2c09e6a5cbcaa32fdb2f541a6fdba0e676aa9b8/Aufzeichnung%202026-01-17%20193435.gif)
 
 ## Auswertung
 
@@ -172,7 +172,7 @@ Messung & Dokumentation:
 2. Dokumentieren Sie durch ein GIF, das beide Wellenformen zeigt.
 
 Task5 GIF
-![Task5 GIF](https://github.com/Crazybaloonguy/SV2Abgabe/blob/d2c09e6a5cbcaa32fdb2f541a6fdba0e676aa9b8/Aufzeichnung%202026-01-17%20194300.gif)
+![Task5 GIF](https://raw.githubusercontent.com/Crazybaloonguy/SV2Abgabe/d2c09e6a5cbcaa32fdb2f541a6fdba0e676aa9b8/Aufzeichnung%202026-01-17%20194300.gif)
 
 ## Part 5
 
@@ -194,7 +194,7 @@ A2. Laut Fourier-Analyse besteht ein Rechtecksignal aus der Grundfrequenz und un
 
 A1.
 Task6 GIF AC
-![Task6 GIF](https://github.com/Crazybaloonguy/SV2Abgabe/blob/d2c09e6a5cbcaa32fdb2f541a6fdba0e676aa9b8/Aufzeichnung%202026-01-17%20201851.gif)
+![Task6 GIF](https://raw.githubusercontent.com/Crazybaloonguy/SV2Abgabe/d2c09e6a5cbcaa32fdb2f541a6fdba0e676aa9b8/Aufzeichnung%202026-01-17%20201851.gif)
 A3. Die maximale Resonanzamplitude der Schaltung wurde bei einer Frequenz von 3,54 MHz ermittelt.
 
 ## Part 2
@@ -205,7 +205,7 @@ A3. Die maximale Resonanzamplitude der Schaltung wurde bei einer Frequenz von 3,
 4. Betrachten Sie den Eingang und den Ausgang (V) im Frequenzbereich (FFT / "Frequency").
 
 Task6 GIF Part 2 1,18MHz
-![Task6 GIF](https://github.com/Crazybaloonguy/SV2Abgabe/blob/d2c09e6a5cbcaa32fdb2f541a6fdba0e676aa9b8/Aufzeichnung%202026-01-17%20202041.gif)
+![Task6 GIF](https://raw.githubusercontent.com/Crazybaloonguy/SV2Abgabe/d2c09e6a5cbcaa32fdb2f541a6fdba0e676aa9b8/Aufzeichnung%202026-01-17%20202041.gif)
 
 ## Part 3 Variation (Optional)
 
@@ -213,7 +213,7 @@ Task6 GIF Part 2 1,18MHz
 2. Beobachten Sie erneut das Spektrum am Ausgang.
 
  Task6 GIF 712kHz
- ![Task6 GIF](https://github.com/Crazybaloonguy/SV2Abgabe/blob/d2c09e6a5cbcaa32fdb2f541a6fdba0e676aa9b8/Aufzeichnung%202026-01-17%20202314.gif)
+ ![Task6 GIF](https://raw.githubusercontent.com/Crazybaloonguy/SV2Abgabe/d2c09e6a5cbcaa32fdb2f541a6fdba0e676aa9b8/Aufzeichnung%202026-01-17%20202314.gif)
 
 ## Part 4 Auswertung
 
