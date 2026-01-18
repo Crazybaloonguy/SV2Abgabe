@@ -45,7 +45,7 @@ Stellen Sie den Widerstand R so ein, dass Sie ihn interaktiv verändern können 
 Dokumentieren Sie durch ein GIF, wie sich die Form der Resonanzkurve (die "Peak-Form") ändert, wenn Sie R von einem sehr kleinen Wert (z.B. 5 Ω) zu einem großen Wert (z.B. 300 Ω) ändern.
 
 Task2 GIF
-![Task2 GIF](https://cdn.discordapp.com/attachments/1390449415600341055/1459139313827708968/Aufzeichnung_Schaltung_2_SV2.gif?ex=696cbce1&is=696b6b61&hm=a88278e15eb20b8ed9d88fc5fe3df5dd288f042b1b53c8e27fbc1a677a55366c&)
+![Task2 GIF](https://github.com/Crazybaloonguy/SV2Abgabe/blob/d2c09e6a5cbcaa32fdb2f541a6fdba0e676aa9b8/Aufzeichnung%202026-01-07%20214627.gif)
 
 ## Part 4
 
@@ -81,7 +81,7 @@ Simulieren Sie den Frequenzgang der Ausgangsspannung für beide Schaltungen (z.B
 Dokumentieren Sie Ihre Ergebnisse durch GIFs, die den Frequenzgang beider Schaltungen zeigen.
 
 Task3 GIFs
-![Task3 GIF](https://cdn.discordapp.com/attachments/1287859367361642599/1462173050324914408/Aufzeichnung_2026-01-17_193036.gif?ex=696d3a45&is=696be8c5&hm=e2df3a218139fa3fdb77cbcccd9cd4c2a59e31b102459e25e02da0de31c117e4&)
+![Task3 GIF](https://github.com/Crazybaloonguy/SV2Abgabe/blob/d2c09e6a5cbcaa32fdb2f541a6fdba0e676aa9b8/Aufzeichnung%202026-01-17%20193036.gif)
 
 ## Part 5
 
@@ -127,7 +127,7 @@ Messen Sie für jede Kombination die resultierende analoge Ausgangsspannung Uaus
 Dokumentieren Sie durch ein GIF, wie sich die Ausgangsspannung ändert, wenn Sie die Binärkombinationen durchschalten.
 
 Task4 GIF
-![Task4 GIF](https://cdn.discordapp.com/attachments/1390449415600341055/1459143543821176944/Aufzeichnung_Schaltung_4_SV2.gif?ex=696cc0d2&is=696b6f52&hm=e3485707e7c75aaab67a5d8d56d1109c993886cc644c042344db9c8f10845203&)
+![Task4 GIF](https://github.com/Crazybaloonguy/SV2Abgabe/blob/d2c09e6a5cbcaa32fdb2f541a6fdba0e676aa9b8/Aufzeichnung%202026-01-17%20193435.gif)
 
 ## Auswertung
 
@@ -172,7 +172,7 @@ Messung & Dokumentation:
 2. Dokumentieren Sie durch ein GIF, das beide Wellenformen zeigt.
 
 Task5 GIF
-![Task5 GIF](https://cdn.discordapp.com/attachments/1390449415600341055/1462150875324879221/Aufzeichnung_Schaltung_5.gif?ex=696d259e&is=696bd41e&hm=a48fe7ed51f259ff815fe9f9f35f90c3ee4ec5e109d7c568dc98f75d86ff5e7f&)
+![Task5 GIF](https://github.com/Crazybaloonguy/SV2Abgabe/blob/d2c09e6a5cbcaa32fdb2f541a6fdba0e676aa9b8/Aufzeichnung%202026-01-17%20194300.gif)
 
 ## Part 5
 
@@ -194,7 +194,7 @@ A2. Laut Fourier-Analyse besteht ein Rechtecksignal aus der Grundfrequenz und un
 
 A1.
 Task6 GIF AC
-![Task6 GIF](https://cdn.discordapp.com/attachments/1462219784325435434/1462220305199009835/Aufzeichnung_Schaltung_6_Part_1_SV2.gif?ex=696d6647&is=696c14c7&hm=af2dffc065f0004e0c1666da80383110504d594d9412c92b8fd50ea408c0f6b6&)
+![Task6 GIF](https://github.com/Crazybaloonguy/SV2Abgabe/blob/d2c09e6a5cbcaa32fdb2f541a6fdba0e676aa9b8/Aufzeichnung%202026-01-17%20201851.gif)
 A3. Die maximale Resonanzamplitude der Schaltung wurde bei einer Frequenz von 3,54 MHz ermittelt.
 
 ## Part 2
@@ -205,10 +205,7 @@ A3. Die maximale Resonanzamplitude der Schaltung wurde bei einer Frequenz von 3,
 4. Betrachten Sie den Eingang und den Ausgang (V) im Frequenzbereich (FFT / "Frequency").
 
 Task6 GIF Part 2 1,18MHz
-![Task6 GIF](https://cdn.discordapp.com/attachments/1462219784325435434/1462220305950048256/Aufzeichnung_Schaltung_6_Part_2_SV2.gif?ex=696d6647&is=696c14c7&hm=2a24b842e3a7360e703c5df29095c68993ac1340cb1a74a99afcb851169a8e8c&)
-
-Task6 GIF Part 2 (Kombiniert)
-![Task6 GIF](https://cdn.discordapp.com/attachments/1462219784325435434/1462220306738319511/Aufzeichnung_Schaltung_6_Part_4_SV2.gif?ex=696d6647&is=696c14c7&hm=ac9768a96d7fd9c3ad8b7f58f50287a463981ab76cb16d63bac32f817a5a2f77&)
+![Task6 GIF](https://github.com/Crazybaloonguy/SV2Abgabe/blob/d2c09e6a5cbcaa32fdb2f541a6fdba0e676aa9b8/Aufzeichnung%202026-01-17%20202041.gif)
 
 ## Part 3 Variation (Optional)
 
@@ -216,7 +213,7 @@ Task6 GIF Part 2 (Kombiniert)
 2. Beobachten Sie erneut das Spektrum am Ausgang.
 
  Task6 GIF 712kHz
- ![Task6 GIF](https://cdn.discordapp.com/attachments/1462219784325435434/1462220143940730950/Aufzeichnung_Schaltung_6_Part_3_SV2.gif?ex=696d6621&is=696c14a1&hm=75c448da116706d550e806bb309aca8a1e60f54cb24fa3528073efffe9be7a5e)
+ ![Task6 GIF](https://github.com/Crazybaloonguy/SV2Abgabe/blob/d2c09e6a5cbcaa32fdb2f541a6fdba0e676aa9b8/Aufzeichnung%202026-01-17%20202314.gif)
 
 ## Part 4 Auswertung
 
